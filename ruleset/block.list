@@ -1,7 +1,23 @@
+# > 小米
 DOMAIN-SUFFIX,miav-cse.avlyun.com
 DOMAIN-SUFFIX,a0.app.xiaomi.com
 DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
+# > 字节
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+# > 腾讯
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
 DOMAIN-SUFFIX,tpns.tencent.com
+# > 京东
+DOMAIN-SUFFIX,bdsp.x.jd.com
+DOMAIN-SUFFIX,im-x.jd.com
+DOMAIN-SUFFIX,img-x.jd.com
+DOMAIN-SUFFIX,u.x.jd.com
+DOMAIN-SUFFIX,wn.x.jd.com
+DOMAIN-SUFFIX,x.jd.com
+# > 聚告
+DOMAIN-SUFFIX,ads.adinall.com
+DOMAIN-SUFFIX,cdn.adinall.com
+DOMAIN-SUFFIX,pmp.adinall.com
