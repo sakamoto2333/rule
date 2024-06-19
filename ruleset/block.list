@@ -8,8 +8,15 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 # > 腾讯
 DOMAIN-SUFFIX,e.qq.com
-DOMAIN-SUFFIX,adnet.qq.com
-DOMAIN-SUFFIX,tpns.tencent.com
+# DOMAIN-SUFFIX,adnet.qq.com
+# DOMAIN-SUFFIX,tpns.tencent.com
+DOMAIN-SUFFIX,adsfile.qq.com
+DOMAIN-SUFFIX,adshmct.qq.com
+DOMAIN-SUFFIX,adshmmsg.qq.com
+DOMAIN-SUFFIX,c.gdt.qq.com
+DOMAIN-SUFFIX,q.i.gdt.qq.com
+DOMAIN-SUFFIX,v.gdt.qq.com
+DOMAIN-SUFFIX,hm.l.qq.com
 # > 京东
 DOMAIN-SUFFIX,bdsp.x.jd.com
 DOMAIN-SUFFIX,im-x.jd.com

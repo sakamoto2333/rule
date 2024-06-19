@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,nga.178.com
 DOMAIN-SUFFIX,developers.google.com
 DOMAIN-SUFFIX,epicgames.com
+# > Android Studio
+DOMAIN-SUFFIX,dl.google.com,DIRECT
