@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,api.instabug.com
 DOMAIN-SUFFIX,adlog.flurry.com
 DOMAIN-SUFFIX,ads.flurry.com
 DOMAIN-SUFFIX,sd.domob.cn
-DOMAIN-SUFFIX,adjust.com
+DOMAIN,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,beacon.tingyun.com
 DOMAIN-SUFFIX,cmcore.com
