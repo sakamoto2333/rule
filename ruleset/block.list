@@ -184,7 +184,7 @@ DOMAIN,logs.chelaile.net.cn
 # (G)
 # > Google
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,googleadservices.com
+# DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 # (H)
