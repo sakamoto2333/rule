@@ -181,12 +181,6 @@ DOMAIN,adshows.21cn.com
 # > 车来了
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
-# (G)
-# > Google
-DOMAIN-SUFFIX,doubleclick.net
-# DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,googlesyndication.com
 # (H)
 # > HunanTV
 DOMAIN-SUFFIX,da.mgtv.com
