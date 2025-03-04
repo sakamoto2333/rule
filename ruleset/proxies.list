@@ -46,3 +46,6 @@ DOMAIN-SUFFIX,browserleaks.org,PROXY
 DOMAIN-SUFFIX,vpnunlimited.com,PROXY
 DOMAIN-SUFFIX,whoer.net,PROXY
 DOMAIN-SUFFIX,whrq.net,PROXY
+
+# Steam
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
