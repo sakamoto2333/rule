@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,rmbgame.net,DIRECT
 # > Epic
 PROCESS-NAME,EpicWebHelper.exe
+DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
 
 # > China Area Network
 DOMAIN-SUFFIX,amap.com
