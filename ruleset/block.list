@@ -158,6 +158,7 @@ DOMAIN,mobads-logs.baidu.com
 DOMAIN,nsclick.baidu.com
 # > ByteDance
 DOMAIN,ad.toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 
 # > BitAuto
 DOMAIN,adx.yiche.com
