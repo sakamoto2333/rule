@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 # > Epic
 PROCESS-NAME,EpicWebHelper.exe
+PROCESS-NAME,EpicGamesLauncher.exe
 DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
 
 # > China Area Network
