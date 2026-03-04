@@ -1,3 +1,6 @@
+# > 匹配所有.cn
+DOMAIN-SUFFIX,cn
+
 DOMAIN-SUFFIX,bbs.nga.cn
 DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,nga.178.com
